@@ -1,0 +1,12 @@
+version: '3'
+services:
+  livebook:
+    image: livebook/livebook
+    volumes:
+      - ./notebooks:/data
+    ports:
+      - 8080:8080
+      - 8081:8081
+    pull_policy: always
+    # env_file:
+    # - .env
