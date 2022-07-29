@@ -1,5 +1,11 @@
 # LiveBook
 
+***DEPRECATED***
+
+Check out the LiveBook desktop app! <https://news.livebook.dev/introducing-the-livebook-desktop-app-4C8dpu>
+
+---
+
 This is just a simple docker-compose set up for Elixir LiveBook.
 
 Check out the following links for more information about LiveBook:
